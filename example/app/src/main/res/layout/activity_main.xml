@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btn_pay_ali"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="支付宝移动支付" />
+
+    <Button
+        android:id="@+id/btn_pay_wechat"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="微信移动支付" />
+
+    <Button
+        android:id="@+id/btn_pay_baidu"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="百度移动支付" />
+
+    <Button
+        android:id="@+id/btn_pay_union"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:text="银联支付" />
+
+</LinearLayout>

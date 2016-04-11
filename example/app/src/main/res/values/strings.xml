@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickPaySDK</string>
+
+    <string name="pay_name_ali">AliPay</string>
+    <string name="pay_name_wechat">WeChatPay</string>
+    <string name="pay_name_baidu">BaiDuPay</string>
+</resources>
